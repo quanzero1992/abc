@@ -1,2 +1,6 @@
+
 Branch master day
 vd ve rebase
+
+A- master se lam o day
+
